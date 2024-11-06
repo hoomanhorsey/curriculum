@@ -6,6 +6,8 @@ This course assumes that you have a decent grasp on the fundamentals of JavaScri
 
 I'm just putting this text here as part of the javascript-using-git-in-the-real-world lesson. The trouble is, I don't ever want to participate in the real world. I'd prefer to just live in my safe and comfortable computer bubble!
 
+I"m added more text as it doesn't seem to work.
+
 ### Review
 
 Running through "part 1" of [MDN's JavaScript basics course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is a great idea for a refresher on the syntax. If you just want a quick reference to skim, try [LearnXinY](https://learnxinyminutes.com/docs/javascript/).
